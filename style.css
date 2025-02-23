@@ -236,7 +236,7 @@ img {
 
 .info__image {
     background: var(--conic-gradient);
-    height: 180px;
+    height: 320px;
     border-radius: 1.5rem;
     display: grid;
     margin-block: 1.5rem;
@@ -246,7 +246,7 @@ img {
 .info__img {
     width: 240px;
     justify-content: center;
-    align-self: flex-end;
+    padding-bottom: 5rem;
 }
 
 .info__description {
