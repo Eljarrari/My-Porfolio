@@ -3,7 +3,7 @@
 /*================= VARIABLES ============*/
 :root{
     /*==============COLOR===========*/
-    --hue: 358;
+    --hue: 162;
     --first-color: hsl(var(--hue),80%,49%);
     --first-color-alt: hsl(var(--hue),76%,45%);
     --white-color: hsl(0,0%,98%);
